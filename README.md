@@ -38,8 +38,8 @@
 ![328115181-b9939ba2-5d7c-4298-a9b5-a748a57468af](https://github.com/Swetha733N/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/122199934/ed0fe6bf-e37a-4435-b0c1-572d389bcc27)
 
 
-### Name:212222110050
-### Register Number:SWETHA N
+### Name:SWETHA N
+### Register Number:212222110050
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
