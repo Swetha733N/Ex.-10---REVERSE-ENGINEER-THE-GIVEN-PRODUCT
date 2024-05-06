@@ -31,10 +31,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![326432712-82551f6b-a2c3-43b6-b2dd-d733c6226479](https://github.com/Swetha733N/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/122199934/894027b8-3952-4080-9540-db6d214601df)
+![328115216-23ff6a9c-b303-4f12-bb2f-5c7b2e2da7c7](https://github.com/Swetha733N/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/122199934/cf3c2683-9a89-425f-8218-1c62b7806496)
+
 
 ### Output:
-![326431320-35e009dd-2d5e-4d6d-8b6e-a3d752c94156](https://github.com/Swetha733N/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/122199934/e0d1f0ab-73ac-4805-9439-26eaa23a5bb4)
+![328115181-b9939ba2-5d7c-4298-a9b5-a748a57468af](https://github.com/Swetha733N/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/122199934/ed0fe6bf-e37a-4435-b0c1-572d389bcc27)
+
 
 ### Name:212222110050
 ### Register Number:SWETHA N
